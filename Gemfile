@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
 ruby '2.3.0'
+# Added 20200227 to resolve vulnerable gem
+gem 'nokogiri', '>= 1.10.8'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 # Use SCSS for stylesheets
