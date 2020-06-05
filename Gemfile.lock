@@ -43,7 +43,7 @@ GEM
       debug_inspector (>= 0.0.1)
     bootstrap-sass (3.4.1)
       autoprefixer-rails (>= 5.2.1)
-      sassc (>= 2.0.0)
+      sass (>= 3.3.4)
     builder (3.2.4)
     byebug (8.2.1)
     coderay (1.1.1)
