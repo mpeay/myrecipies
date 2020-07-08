@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '2.3.0'
 # Added 20200227 to resolve vulnerable gem
 gem 'nokogiri', '>= 1.10.8'
-gem 'rails-html-sanitizer', '>= 1.3.0.'
+gem 'rails-html-sanitizer', '>= 1.3.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
